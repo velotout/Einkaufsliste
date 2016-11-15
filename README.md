@@ -3,4 +3,4 @@
 ## Beruf ## Schauspieler
 *Diese Satze musst kursiv sein*
 
-![Alternativtext wenn du das Bild nicht sehen kann]("bild.jpg")
+![Alternativtext wenn du das Bild nicht sehen kann](bild.jpg )
